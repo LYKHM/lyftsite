@@ -115,7 +115,7 @@ const Policy = () => {
             <p className="mb-4">We may update Our Privacy Policy from time to time. Changes will be posted on this page.</p>
             
             <h3 className="text-xl font-semibold mt-4">Contact Us</h3>
-            <p className="mb-4">If you have any questions about this Privacy Policy, you can contact us by email: <a href="mailto:lyftoneai@gmail.com" className="text-blue-500">lyftoneai@gmai.com</a></p>
+            <p className="mb-4">If you have any questions about this Privacy Policy, you can contact us by email: <a href="mailto:support@lyftone.com" className="text-blue-500">support@lyftone.com</a></p>
             </div>
           <p className='text-center text-xs text-slate-500 mt-1 mb-2'>Made with Love ❤️</p>
         </div>

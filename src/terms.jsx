@@ -135,7 +135,7 @@ const Terms = () => {
           </p>
 
           <h2 className="text-2xl mt-6 font-semibold">Contact Us</h2>
-          <p className="mt-4">If you have any questions about these Terms and Conditions, You can contact us at: <a href="mailto:lyftoneai@gmail.com" className="text-blue-600">lyftoneai@gmail.com</a></p>
+          <p className="mt-4">If you have any questions about these Terms and Conditions, You can contact us at: <a href="mailto:support@lyftone.com" className="text-blue-600">support@lyftone.com</a></p>
         </main>
 
         <p className='text-center text-xs text-slate-500 mt-1 mb-2'>Made with Love ❤️</p>
