@@ -8,7 +8,7 @@ const Home = () => {
       <div className='flex items-center justify-between py-4'>
         
         <a href='/'>
-          <img src="../src/assets/thelogo.png" alt="logo" className='w-10 h-10' />
+          <img src="/thelogo.png" alt="logo" className='w-10 h-10' />
         </a>
         
          
@@ -24,7 +24,7 @@ const Home = () => {
       <main className='grid lg:grid-cols-2 place-items-center py-4 md:py-12'>
         <div className='pb-2 px-6 md:order-1 md-block'>
           <picture>
-            <img src='../src/assets/Demo 3.png' />
+            <img src='/Demo 3.png' />
           </picture>
         </div>
 
@@ -36,7 +36,7 @@ const Home = () => {
           Stay on track with personalized insights and smart reminders to reach your fitness goals faster! 
           </p>
           <picture className='p-1'>
-            <img src='../src/assets/appstore.png' alt="Appstore link" loading="eager" width="199" height="166"/>
+            <img src='/appstore.png' alt="Appstore link" loading="eager" width="199" height="166"/>
           </picture>
         </div>
       </main>

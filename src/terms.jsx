@@ -7,7 +7,7 @@ const Terms = () => {
       <div className='max-w-screen-xl mx-auto px-5'>
         <div className='flex items-center justify-between py-4'>
           <a href='/'>
-            <img src="../src/assets/thelogo.png" alt="logo" className='w-10 h-10' />
+            <img src="/thelogo.png" alt="logo" className='w-10 h-10' />
           </a>
           <div className='flex-grow flex justify-center space-x-6'>
             <Link to="/terms" className="hover:text-gray-300">Terms of Service</Link>
